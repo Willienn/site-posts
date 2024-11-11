@@ -72,19 +72,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "11a4520bf0c17c35",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11a4520bf0c17c35",
+  "active": "803a5c177927c432",
   "lastOpenFiles": [
     "Vault.md",
+    "Posts/Next.js 13 Novidades.md",
     "Posts/Posts.md",
     "Posts/Opostos.md",
     "Posts",
     "Posts.md",
     "//Opostos.md",
-    "Posts/Next.js 13 Novidades.md",
     "Tags",
     "test/Posts.md",
     "test/Next.js 13 Novidades.md",
