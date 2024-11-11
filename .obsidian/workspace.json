@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/Next.js 13 Novidades.md",
+                "file": "Posts/opostos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js 13 Novidades"
+              "title": "opostos"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/Next.js 13 Novidades.md",
+                "file": "Posts/opostos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Next.js 13 Novidades"
+              "title": "Backlinks for opostos"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posts/Next.js 13 Novidades.md"
+                "file": "Posts/opostos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Next.js 13 Novidades"
+              "title": "Outline of opostos"
             }
           }
         ]
@@ -177,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803a5c177927c432",
+  "active": "122ab0191249e107",
   "lastOpenFiles": [
+    "Posts/novidades-nexts-js-13.md",
     "Vault.md",
-    "Posts/Next.js 13 Novidades.md",
     "Posts/Posts.md",
-    "Posts/Opostos.md",
+    "Posts/opostos.md",
     "Posts",
     "Posts.md",
     "//Opostos.md",
