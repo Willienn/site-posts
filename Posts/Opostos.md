@@ -1,5 +1,6 @@
 ---
 banner: https://i.imgur.com/Eub9g3C.jpg/size/w=2000?exp=1731332008&sig=kyz52pUgCPbba4jonpRASqqCANwEqjHD3rMPc5at9m0
+slug: opostos
 ---
 # Opostos
 
