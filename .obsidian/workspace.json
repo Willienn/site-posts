@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/opostos.md",
+                "file": "posts/opostos.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/opostos.md",
+                "file": "posts/opostos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posts/opostos.md"
+                "file": "posts/opostos.md"
               },
               "icon": "lucide-list",
               "title": "Outline of opostos"
@@ -179,11 +179,11 @@
   },
   "active": "122ab0191249e107",
   "lastOpenFiles": [
-    "Posts/novidades-nexts-js-13.md",
+    "posts/novidades-nexts-js-13.md",
     "Vault.md",
     "Posts/Posts.md",
-    "Posts/opostos.md",
-    "Posts",
+    "posts/opostos.md",
+    "posts",
     "Posts.md",
     "//Opostos.md",
     "Tags",
