@@ -1,6 +1,6 @@
 ---
 banner: https://i.imgur.com/P83o6DJ.png/size/w=2000?exp=1731336428&sig=V5Z7LonHE2gpVsbsDcfCy6fBKGNlKv84hP4V6uVEWXg
-slug: novidades-next-js-13
+title: Nextjs 13 Novidades
 ---
 > O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
 
