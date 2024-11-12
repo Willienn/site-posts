@@ -47,7 +47,7 @@ Com melhorias na API de Middleware, agora é possível definir cabeçalhos diret
 
 ## [**Breaking Changes**](https://nextjs.org/blog/next-13#breaking-changes)
 
-<p>
+<p style={{"color":"red"}}>
 
 `test`
 
