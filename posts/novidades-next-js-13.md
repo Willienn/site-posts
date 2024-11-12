@@ -4,7 +4,7 @@ title: Nextjs 13 Novidades
 ---
 > O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
 
-## [**Diretório "app/"**](https://nextjs.org/blog/next-13#app-directory-beta)
+## [Diretório "app/"](https://nextjs.org/blog/next-13#app-directory-beta)
 
 O novo diretório "app/" introduz um sistema aprimorado de roteamento e layouts, permitindo reutilizar interfaces entre páginas e manter o estado sem re-renderizações desnecessárias. Destaques:
 
@@ -53,7 +53,7 @@ Com melhorias na API de Middleware, agora é possível definir cabeçalhos diret
 Entre as mudanças importantes,
 destacam-se a atualização das versões mínimas do React e Node.js, a remoção de funcionalidades obsoletas e a definição de novos navegadores suportados.
 ```
-<section>
+</section>
 
 ---
 
