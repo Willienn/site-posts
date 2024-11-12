@@ -44,7 +44,7 @@ O Next.js 13 facilita a geração de Open Graphs dinâmicos com a biblioteca @ve
 
 Com melhorias na API de Middleware, agora é possível definir cabeçalhos diretamente e responder a solicitações sem precisar de `rewrite` ou `redirect`, facilitando a implementação de regras de roteamento personalizadas.
 
-<section>
+<p>
 ## [**Breaking Changes**](https://nextjs.org/blog/next-13#breaking-changes)
 
 `test`
