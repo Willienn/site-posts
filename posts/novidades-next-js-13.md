@@ -12,7 +12,7 @@ O novo diretório "app/" introduz um sistema aprimorado de roteamento e layouts,
 - **Server Components**: Nova arquitetura que combina renderizações no servidor e cliente para tornar os aplicativos mais rápidos e interativos.
 - **Streaming**: Carregamento progressivo de conteúdo, exibindo partes da página enquanto outras ainda estão sendo processadas.
 
-]
+`]
 ---
 > O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
 
