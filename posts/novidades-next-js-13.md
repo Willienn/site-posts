@@ -44,7 +44,7 @@ O Next.js 13 facilita a geração de Open Graphs dinâmicos com a biblioteca @ve
 
 Com melhorias na API de Middleware, agora é possível definir cabeçalhos diretamente e responder a solicitações sem precisar de `rewrite` ou `redirect`, facilitando a implementação de regras de roteamento personalizadas.
 
-
+<section>
 ## [**Breaking Changes**](https://nextjs.org/blog/next-13#breaking-changes)
 
 `test`
@@ -53,8 +53,8 @@ Com melhorias na API de Middleware, agora é possível definir cabeçalhos diret
 Entre as mudanças importantes,
 destacam-se a atualização das versões mínimas do React e Node.js, a remoção de funcionalidades obsoletas e a definição de novos navegadores suportados.
 ```
+<section>
 
 ---
-</p>
 
 Essas são as principais novidades do Next.js 13, uma versão focada em melhorar a experiência do desenvolvedor e proporcionar aplicativos web mais rápidos e interativos.
