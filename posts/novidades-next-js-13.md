@@ -1,7 +1,6 @@
 ---
 banner: https://i.imgur.com/P83o6DJ.png/size/w=2000?exp=1731336428&sig=V5Z7LonHE2gpVsbsDcfCy6fBKGNlKv84hP4V6uVEWXg
 title: Nextjs 13 Novidades
-
 ---
 > O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
 
@@ -45,7 +44,9 @@ O Next.js 13 facilita a geração de Open Graphs dinâmicos com a biblioteca @ve
 
 Com melhorias na API de Middleware, agora é possível definir cabeçalhos diretamente e responder a solicitações sem precisar de `rewrite` ou `redirect`, facilitando a implementação de regras de roteamento personalizadas.
 
-<section>
+<secti>
+
+
 ## [**Breaking Changes**](https://nextjs.org/blog/next-13#breaking-changes)
 
 `test`
