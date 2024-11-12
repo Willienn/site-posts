@@ -1,6 +1,18 @@
 ---
 banner: https://i.imgur.com/P83o6DJ.png/size/w=2000?exp=1731336428&sig=V5Z7LonHE2gpVsbsDcfCy6fBKGNlKv84hP4V6uVEWXg
 title: Nextjs 13 Novidades
+blocks: [
+> O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
+
+## [Diretório "app/"](https://nextjs.org/blog/next-13#app-directory-beta)
+
+O novo diretório "app/" introduz um sistema aprimorado de roteamento e layouts, permitindo reutilizar interfaces entre páginas e manter o estado sem re-renderizações desnecessárias. Destaques:
+
+- **Layouts**: Permite definir layouts no sistema de arquivos, facilitando a reutilização de interfaces e mantendo a interatividade.
+- **Server Components**: Nova arquitetura que combina renderizações no servidor e cliente para tornar os aplicativos mais rápidos e interativos.
+- **Streaming**: Carregamento progressivo de conteúdo, exibindo partes da página enquanto outras ainda estão sendo processadas.
+
+]
 ---
 > O Next.js 13 traz uma série de melhorias que otimizam o desenvolvimento e o desempenho dos aplicativos. Confira os principais destaques desta versão:
 
