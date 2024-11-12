@@ -46,7 +46,11 @@ Com melhorias na API de Middleware, agora é possível definir cabeçalhos diret
 
 ## [**Breaking Changes**](https://nextjs.org/blog/next-13#breaking-changes)
 
+
+```
 Entre as mudanças importantes, destacam-se a atualização das versões mínimas do React e Node.js, a remoção de funcionalidades obsoletas e a definição de novos navegadores suportados.
+```
+
 
 ---
 
