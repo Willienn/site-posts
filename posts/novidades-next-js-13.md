@@ -56,5 +56,5 @@ destacam-se a atualização das versões mínimas do React e Node.js, a remoçã
 ```
 
 ---
-</p>
+</section>
 Essas são as principais novidades do Next.js 13, uma versão focada em melhorar a experiência do desenvolvedor e proporcionar aplicativos web mais rápidos e interativos.
