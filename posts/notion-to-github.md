@@ -24,9 +24,9 @@ To me Obsidian is a extension of my mind i personalize it whit plugins to do wha
 Since they will be markdown the files are very small in size so why not use the biggest text hosting plataform, Github! 
 The git plugin allow us to sync the Obsidian vault with a git repository so all the 4 requisites are check now, i just need a way to fetch the post from my private repository.
 
-Lucky  to us GitHub provide a endpoint to access the raw files of any repo in this url `raw.githubusercontent.com/${user}/${repo}/${branch}/${file-path}`. Now we just need to fetch the files and process them in or app
+Lucky  to us GitHub provide a endpoint to access the raw files of any repo in this url `raw.githubusercontent.com/${user}/${repo}/${branch}/${file-path}`. Now we just need to fetch the files and process them in or app.
 
-I how i have said i done the same way of the RSS but to summarize, I created a JSON file structured like this:
+We gonna do the same way in RSS, but to summarize, I created a JSON file structured like this:
 
 ```json
 export const posts = [  
@@ -42,6 +42,8 @@ export const posts = [
 ```
 
 I use this file to display featured posts on the homepage. For now, I display all of them since there aren’t too many yet, but as the number grows, I’ll add the same kind of tags logic I implemented for the RSS feed.
+
+If we need to filter anything we just take the slug from url and do a `posts.filter(slug)`
 
 To parse the content, I use `react-markdown` to convert the markdown into React components and `gray-matter` to parse the post properties written like this:  
 `--- prop: value ---`
