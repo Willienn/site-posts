@@ -25,10 +25,6 @@ export const posts = [
 ]
 ```
 
-then i parsed the content using  ``react-markdown``
+then i parsed the content using  `react-markdown`
 
-``rehype-raw``
-
- ``remark-gfm``
-
- ``gray-matter``
+ ``gray-matter`
