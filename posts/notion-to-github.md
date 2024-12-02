@@ -43,7 +43,14 @@ export const posts = [
 
 I use this file to display featured posts on the homepage. For now, I display all of them since there aren’t too many yet, but as the number grows, I’ll add the same kind of tags logic I implemented for the RSS feed.
 
-If we need to filter anything we just take the slug from url and do a `posts.filter(slug)` and if we need all post just do a map and we have all metadata necessary do to anything in the blog i do the Metadata](https://nextjs.org/docs/app/building-your-application/optimizing/metadata#dynamic-metadata) and [Static Params]() in this same way
+If we need to filter anything we just take the slug from url and do a `posts.filter(slug)` and if we need all post just do a map and we have all metadata necessary do to anything in the blog i do the [Metadata](https://nextjs.org/docs/app/building-your-application/optimizing/metadata#dynamic-metadata) and [Static Params](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes#generating-static-params) in this same way
+
+
+export async function generateStaticParams() {
+
+return posts.map((post) => ({ slug: post.slug }))
+
+}```
 
 To parse the content, I use `react-markdown` to convert the markdown into React components and `gray-matter` to parse the post properties written like this:  
 `--- prop: value ---`
