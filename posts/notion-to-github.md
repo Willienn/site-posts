@@ -1,4 +1,9 @@
-# How I Changed from Notion to GitHub User Content
+---
+banner: https://i.imgur.com/5etxlhW.jpg
+title:
+---
+
+# Changing from Notion to GitHub
 
 ## The Context
 
