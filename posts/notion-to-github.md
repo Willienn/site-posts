@@ -1,6 +1,6 @@
 ---
 banner: https://i.imgur.com/5etxlhW.jpg
-title: "# Changing from Notion to GitHub"
+title: Changing from Notion to GitHub
 ---
 
 # Changing from Notion to GitHub
