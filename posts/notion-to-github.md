@@ -27,4 +27,4 @@ export const posts = [
 
 then i parsed the content using  `react-markdown`
 
- ``gray-matter`
+ `gray-matter`
