@@ -20,10 +20,13 @@ But my minimum requisites are:
  - Free
 
 The solution for all the questions are [Obsidian](https://obsidian.md/) using the [obsidian git](https://github.com/Vinzent03/obsidian-git) plugin.
-To me Obsidian is a extension of my mind i personalize it whit plugins to do what i want and to look the way i want with themes. Since they will be markdown the files are very small in size so why not use the biggest text hosting plataform, Github! Obsidian Git allow us to sync the vault with a git repository so all the 4 requisites are check now, i just need a way to fetch the post from my private repository.
+To me Obsidian is a extension of my mind i personalize it whit plugins to do what i want and to look the way i want with themes. 
+Since they will be markdown the files are very small in size so why not use the biggest text hosting plataform, Github! 
+The git plugin allow us to sync the Obsidian vault with a git repository so all the 4 requisites are check now, i just need a way to fetch the post from my private repository.
 
+Lucky github provide a endpoint to acess the raw files to us
 
-To summarize, I created a JSON file structured like this:
+I how i have said i done the same way of the RSS but to summarize, I created a JSON file structured like this:
 
 ```json
 export const posts = [  
