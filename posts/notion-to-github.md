@@ -56,7 +56,7 @@ If we need to filter anything, we just take the slug from the URL and do a `post
 ```javascript
 export async function generateMetadata({ params }) {  
   const { slug } = await params;  
-  const post = await fetchPost(slug); // just a helper to fetch from github 
+  const post = await fetchPost(slug); 
   const { data } = matter(post);  
   const { banner, title } = data;  
 
