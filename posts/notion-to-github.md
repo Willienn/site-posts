@@ -24,7 +24,7 @@ To me Obsidian is a extension of my mind i personalize it whit plugins to do wha
 Since they will be markdown the files are very small in size so why not use the biggest text hosting plataform, Github! 
 The git plugin allow us to sync the Obsidian vault with a git repository so all the 4 requisites are check now, i just need a way to fetch the post from my private repository.
 
-Lucky github provide a endpoint to acess the raw files to us
+Lucky  to us github provide a endpoint to acess the raw files of any repo in this url `raw.githubusercontent.com/${user}/${repo}/${branch}/${file-path}`
 
 I how i have said i done the same way of the RSS but to summarize, I created a JSON file structured like this:
 
