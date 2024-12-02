@@ -2,9 +2,6 @@
 banner: https://i.imgur.com/5etxlhW.jpg
 title: Changing from Notion to GitHub
 ---
-
-# Changing from Notion to GitHub
-
 ## The Context
 
 I had just finished implementing my RSS page on the site ([as mentioned in the previous post](https://dailycodes.dev/posts/how-i-implemented-a-rss-feed)), and I was really happy with the results. Sure, the load time isn’t great, but that’s just a limitation of RSS feeds (I think). I pull feeds from various sources, each implementing RSS differently, so I can’t control how many items (episodes) I get at once.
