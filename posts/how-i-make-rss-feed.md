@@ -1,9 +1,9 @@
 Inspirações, Desafios e Transformações na Carreira de um Programador
-- **Motivação e Inspiração:** A paixão pelo aprendizado contínuo e a capacidade de transformar ideias em soluções práticas são fortes motivadores para profissionais da programação.
-- **Desafios Superados:** A superação de desafios técnicos e pessoais é um marco na trajetória de programadores, muitas vezes enfrentados com persistência e busca por novos conhecimentos.
-- **Mudanças no Setor:** O setor de tecnologia está em constante transformação, exigindo adaptação e aprendizado contínuo.
-- **Recursos de Atualização:** Programadores utilizam estratégias como cursos online, leitura de artigos técnicos e participação em comunidades para se manterem atualizados.
-- **Impacto da Programação no Cotidiano:** A lógica e a resolução de problemas aplicadas na programação moldam a forma como profissionais encaram desafios pessoais e profissionais.
+- Motivação e Inspiração: A paixão pelo aprendizado contínuo e a capacidade de transformar ideias em soluções práticas são fortes motivadores para profissionais da programação.
+- Desafios Superados: A superação de desafios técnicos e pessoais é um marco na trajetória de programadores, muitas vezes enfrentados com persistência e busca por novos conhecimentos.
+- Mudanças no Setor: O setor de tecnologia está em constante transformação, exigindo adaptação e aprendizado contínuo.
+- Recursos de Atualização: Programadores utilizam estratégias como cursos online, leitura de artigos técnicos e participação em comunidades para se manterem atualizados.
+- Impacto da Programação no Cotidiano: A lógica e a resolução de problemas aplicadas na programação moldam a forma como profissionais encaram desafios pessoais e profissionais.
 
 A programação é uma área dinâmica e desafiadora, marcada por constante evolução e aprendizado. O grupo discutiu como a motivação para ingressar nesse campo frequentemente nasce da curiosidade e do desejo de resolver problemas complexos. Segundo relatos de profissionais entrevistados, a inspiração surge da capacidade de transformar ideias em ferramentas práticas, impactando positivamente a vida das pessoas.
 
