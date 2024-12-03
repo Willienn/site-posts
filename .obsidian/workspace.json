@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "803a5c177927c432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/novidades-next-js-13.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "novidades-next-js-13"
-            }
-          },
-          {
-            "id": "de8157e753ebeb09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
             "id": "6996c9d10302ca5a",
             "type": "leaf",
             "state": {
@@ -47,8 +21,7 @@
               "title": "notion-to-github"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +179,8 @@
   },
   "active": "6996c9d10302ca5a",
   "lastOpenFiles": [
-    "posts/notion-to-github.md",
     "posts/how-i-make-rss-feed.md",
+    "posts/notion-to-github.md",
     "posts/opostos.md",
     "posts/novidades-next-js-13.md",
     "Vault.md",

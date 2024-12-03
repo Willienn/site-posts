@@ -1,10 +1,11 @@
 ---
 banner: https://i.imgur.com/5etxlhW.jpg
 title: Changing from Notion to GitHub
+related-posts: "[[how-i-make-rss-feed]]"
 ---
 ## The Context
 
-I had just finished implementing my RSS page on the site[[]]]([as mentioned in the previous post](https://dailycodes.dev/posts/how-i-implemented-a-rss-feed)), and I was really happy with the results. Sure, the load time isn’t great, but that’s just a limitation of RSS feeds (I think). I pull feeds from various sources, each implementing RSS differently, so I can’t control how many items (episodes) I get at once.
+I had just finished implementing my RSS page on the site ([as mentioned in the previous post](https://dailycodes.dev/posts/how-i-implemented-a-rss-feed)), and I was really happy with the results. Sure, the load time isn’t great, but that’s just a limitation of RSS feeds (I think). I pull feeds from various sources, each implementing RSS differently, so I can’t control how many items (episodes) I get at once.
 
 However, I was never satisfied with how I handled the posts.  
 Notion’s docs didn’t help much with parsing the blocks, the performance was okay-ish, but most importantly, I had stopped using Notion altogether. These days, I only login to fix something in my posts when absolutely necessary. So, I started looking for alternatives (and yes, I even considered using a NoSQL database to save the posts—honestly, no idea why I thought that was a good idea).
