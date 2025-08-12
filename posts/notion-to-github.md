@@ -1,7 +1,7 @@
 ---
 banner: https://i.imgur.com/5etxlhW.jpg
 title: Changing from Notion to GitHub
-related-posts: "[[existencia]]"
+related-posts: "[[notion-to-github]]"
 ---
 ## The Context
 
