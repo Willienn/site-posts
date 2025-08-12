@@ -1,3 +1,7 @@
+---
+title: Existencia
+banner: https://i.imgur.com/gdDFH6D.jpeg
+---
 Se a vida é um presente, talvez o corpo seja a maldição que o acompanha.  
 E o que é uma maldição, senão algo mal dito, lançado ao vento, desprezado pelo destino?  
 A maioria dos ataques que sofremos mira o corpo, não a alma.  
